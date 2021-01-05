@@ -28,7 +28,7 @@ twitter_username: defnotshuwei
 github_username:  pshuwei
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
