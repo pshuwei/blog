@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Peter Chang
+title: Book of Shuwei
 email: pchang27@ufl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog site, where I just put down interesting things that I find.
@@ -28,9 +28,30 @@ twitter_username: defnotshuwei
 github_username:  pshuwei
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
+author:
+  name: "Peter Chang"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "socially awkward, nonchalant, introvert, unicorn ethusiast" # Note: Markdown is allowed
+  location: "Taipei, Taiwan"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pshuwei"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/defnotshuwei"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
