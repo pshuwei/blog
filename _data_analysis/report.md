@@ -90,11 +90,11 @@ following lines:
        print(board, quote = FALSE)
        
 
-The board would start out as an empty \\(m \\times n\\) matrix, which
+The board would start out as an empty m x n matrix, which
 then would be replaced by `[ ]` for the number of rows and columns. It
 would name the columns by letter and number the rows.
 
-So for example, making a \\(5 \\times 5\\) board:
+So for example, making a 5x5 board:
 
 ``` {.r}
 my.rows <- 5
@@ -134,7 +134,7 @@ usually 2 units long. For this game, I only wanted the ship to be 2 or 3
 units long.
 
 However, I also had to keep in the mind the size of the board. If the
-user requested only a \\(2 \\times 2\\) board, then it is impossible to
+user requested only a 2x2 board, then it is impossible to
 have a ship size of 3. So the following lines account for this.
 
 **Note: I am setting the seed for this report. In the actual function,
@@ -154,7 +154,7 @@ If the number of rows or columns were less than 3, then it only created
 a ship that is 2 units long. On the other than, it would randomly decide
 to create a ship the size of 2 of 3 units.
 
-Using our example of our \\(5 \\times 5\\) board:
+Using our example of our 5x5 board:
 
 ``` {.r}
 shipsize
@@ -573,8 +573,7 @@ Overall, I am pleased with how the game works. By randomly generating
 one ship, the game works surprisingly well.
 
 There are other things can be done for future work. One aspect is more
-ships. Since in the real game there are 5 ships on a \\(10 \\times 10\\)
-board, more work can be done to add more ships. This would involve
+ships. Since in the real game there are 5 ships on a 10x10 board, more work can be done to add more ships. This would involve
 generating non-repeating coordinates so that no two ships can occupy the
 same spot.
 

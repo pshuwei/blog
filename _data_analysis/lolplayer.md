@@ -165,8 +165,8 @@ positions.
 
 The process behind this should be straight-forward:
 
-1.  Randomly divide the data into \\(\\frac{2}{3}\\) and
-    \\(\\frac{1}{3}\\).
+1.  Randomly divide the data into 2/3 and
+    1/3.
 2.  Use 2/3 as the training data, in other words, what the machine is
     using to determine what characteristics define a role.
 3.  Use the 1/3 as testing data, and predict with the testing data what
@@ -246,7 +246,7 @@ sum(diag(atable))/sum(atable)
 
 Pretty bad, right? It only predicted correctly about 23% of the time.
 
-But machine learning is using just one decision tree. Instead we make
+But machine learning isn't using just one decision tree. Instead we make
 many, many trees and find similar patterns. That is where Random Forest
 comes in.
 
