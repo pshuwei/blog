@@ -1,8 +1,5 @@
 ---
-layout: single
 title:  "PCA and ML on League of Legends Data"
-date:   2021-01-05 17:33:00 -0500
-categories: jekyll update
 ---
 
 I finished the fall semester, and so I wanted to apply what I learned in
