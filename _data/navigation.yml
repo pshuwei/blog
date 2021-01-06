@@ -1,8 +1,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
   - title: "Data Analysis"
     url: /data_analysis/
   - title: "Don't click here"
