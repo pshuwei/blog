@@ -43,6 +43,15 @@ defaults:
     values:
       author_profile: true
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+include: ["_pages"]
 
 author:
   name: "Peter Chang"

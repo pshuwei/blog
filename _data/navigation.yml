@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Don't click here"
+    url: https://www.youtube.com/watch?v=jL8p9vteR5g
