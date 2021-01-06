@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "My first day"
 date:   2021-01-05 22:37:24 -0500
 categories: jekyll update
