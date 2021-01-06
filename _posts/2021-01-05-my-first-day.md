@@ -12,3 +12,5 @@ I learned a lot from this: creating posts, setting a theme, creating navigating 
 I'll probably refine it. I don't know what the purpose of this site is yet. I guess I mainly wanted to put my stuff on here that I don't want to post on Facebook or something.
 
 I added my past projects in the 'Data Analysis' tab. But it's also [here](https://pshuwei.github.io/blog/data_analysis/lolplayer/) and [here](https://pshuwei.github.io/blog/data_analysis/report/).
+
+The plan tomorrow will be to further refine this site.
