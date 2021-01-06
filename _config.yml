@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Book of Shuwei
+title: The Book of Shuwei
 email: pchang27@ufl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog site, where I just put down interesting things that I find.
@@ -75,6 +75,8 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/defnotshuwei"
+    - label: "pchang27@ufl.edu"
+      icon: "fas fa-fw fa-envelope"
 
 collections:
   data_analysis:
