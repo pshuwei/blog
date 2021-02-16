@@ -60,6 +60,15 @@ defaults:
       author_profile: true
       share: true
       show_date: true
+  # _reviews
+  - scope:
+      path: ""
+      type: reviews
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      show_date: true
 
 include: ["_pages"]
 
@@ -81,6 +90,9 @@ author:
 
 collections:
   data_analysis:
+    output: true
+    permalink: /:collection/:path/
+  reviews:
     output: true
     permalink: /:collection/:path/
 

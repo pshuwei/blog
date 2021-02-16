@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "Data Analysis"
     url: /data_analysis/
+  - title: "Reviews"
+    url: /reviews/
   - title: "Don't click here"
     url: https://www.youtube.com/watch?v=jL8p9vteR5g
