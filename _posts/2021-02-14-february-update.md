@@ -17,3 +17,7 @@ I'm glad that I have at least two things lined up, it was kind of worrying and g
 On an unrelated note, I've started watching Running Man, which is an insane Korean variety show. It's very funny and it makes me sad that shows here in the United States don't have anything close to this kind of energy and enthusiasm.
 
 I've also started exercising again. First week, everything hurt. But it's good to be doing workouts rather than sitting and doing nothing at home.
+
+**2/15 update:**
+
+I added a new tab to the site, it's called Reviews and I will be added my review of shows, movies, or anything. This is mainly to help me get use to writing long things, like reports or papers, in the future.
