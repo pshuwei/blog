@@ -1,5 +1,7 @@
 ---
 title:  "Run with the Wind (Recommendation)"
+
+date:   2021-05-11
 ---
 
 Around the end of 2018, my family bought a treadmill. This was the second treadmill we had bought, after more than 10 years after we quickly bought and broke the first one. This was also the same time that I had my jaw surgery. My face was messed up, swollen and wired shut. Needless to say, I couldn't go outside and exercise. The surgery also had a decent impact on my weight. By the time I was able to move my mouth and eat proper food, I had lost about 15 pounds (I'm pretty underweight to begin with).  So what does this have to do with *Run with the Wind* or *Kaze ga Tsuyoku Fuiteiru*? As it just so happens, I was watching this anime right about all of this was happening. 

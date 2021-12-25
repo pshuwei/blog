@@ -2,6 +2,7 @@
 
 title:  "LoL Worlds 2021: PCA and Radar Charts"
 
+date:   2021-12-13
 ---
 
 he Fall 2021 semester is over, which means it’s time for one thing: keeping up with `R` coding.

@@ -1,5 +1,7 @@
 ---
 title:  "Capstone Report: Investigation of Median Age and COVID-19 Percent Mortality in Florida Counties"
+
+date:   2021-05-06
 ---
 
 Introduction

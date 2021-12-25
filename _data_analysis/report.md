@@ -2,6 +2,7 @@
 
 title:  "Battleship R package"
 
+date:   2020-12-13
 ---
 
 Introduction

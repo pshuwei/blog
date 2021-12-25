@@ -1,5 +1,7 @@
 ---
 title:  "PCA and ML on League of Legends Data"
+
+date:   2020-12-20
 ---
 
 I finished the fall semester, and so I wanted to apply what I learned in
