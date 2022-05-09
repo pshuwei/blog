@@ -5,7 +5,7 @@ title:  "LoL Worlds 2021: PCA and Radar Charts"
 date:   2021-12-13
 ---
 
-he Fall 2021 semester is over, which means it’s time for one thing: keeping up with `R` coding.
+The Fall 2021 semester is over, which means it’s time for one thing: keeping up with `R` coding.
 
 In my previous semester, I had to very little to almost no coding (not including exams) for my classes. So rather than let my `R` coding rust, I should work on making sure I am still familiar with `R`.
 
