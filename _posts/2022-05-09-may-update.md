@@ -1,5 +1,5 @@
 ---
-title:  "May Update"
+title:  "May '22 Update"
 date:   2022-05-09 11:20:00 -0500
 categories: jekyll update
 ---
@@ -14,4 +14,4 @@ My summer should be relatively busy. The department asked me to teach a course i
 
 I also have some research projects I am doing with my current advisor. The main one involves looking at AI based treatment, and the other will be survival analysis with ICU patients (supposedly).
 
-I also have to study for the qualifying exam, which will take place in August. I will slowly increase the studying time over the summer.
+I also have to study for the qualifying exam, which will take place in August. I will slowly increase the studying time over the summer. Hopefully, I pass. My PhD life pretty goes on autopilot if I pass that.

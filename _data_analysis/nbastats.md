@@ -1,7 +1,7 @@
 ---
-title:  "NBA Stats 2022"
+title:  "NBA Stats: Radar Charts and Regression"
 
-date:   2022-05-11
+date:   2022-05-09
 ---
 
     knitr::opts_chunk$set(message=FALSE, error=FALSE, warning=FALSE)
@@ -517,5 +517,3 @@ Let’s look at the top 10 versatile players in this subset.
     par <- par(opar) 
 
 Look at that. We can see why the first four are the ones in the MVP running. They clearly excel at least in one of the areas. The other 7 players are also clearly great players, however not as good as someone like Jokic or Giannis.
-
-// add bootstrap table styles to pandoc tables function bootstrapStylePandocTables() { $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed'); } $(document).ready(function () { bootstrapStylePandocTables(); }); $(document).ready(function () { window.buildTabsets("TOC"); }); $(document).ready(function () { $('.tabset-dropdown > .nav-tabs > li').click(function () { $(this).parent().toggleClass('nav-tabs-open'); }); }); (function () { var script = document.createElement("script"); script.type = "text/javascript"; script.src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML\_HTMLorMML"; document.getElementsByTagName("head")\[0\].appendChild(script); })();
