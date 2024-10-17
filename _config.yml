@@ -82,7 +82,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pshuwei"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pchang27"
     - label: "pchang27@ufl.edu"
       icon: "fas fa-fw fa-envelope"
